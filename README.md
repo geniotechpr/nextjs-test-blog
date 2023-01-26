@@ -1,1 +1,1 @@
-This is a sample blog app to learn Next.js and deploy to Vercel.
+This is a sample blog app to learn Next.js as part of the Getting Started Guide and deploy to Vercel.
